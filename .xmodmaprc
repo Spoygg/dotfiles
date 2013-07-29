@@ -1,0 +1,12 @@
+keycode  24 = q Q backslash Greek_OMEGA backslash
+keycode  25 = w W bar Lstroke bar
+keycode  26 = e E apostrophe EuroSign apostrophe
+keycode  27 = r R plus registered plus
+keycode  28 = t T asterisk Tslash asterisk
+keycode  38 = a A braceleft AE braceleft
+keycode  39 = s S braceright guillemotright braceright
+keycode  40 = d D bracketleft guillemotleft bracketleft
+keycode  41 = f F bracketright ordfeminine bracketright
+keycode  52 = y Y less guillemotright less
+keycode  53 = x X greater guillemotleft greater
+keycode  54 = c C question copyright question
